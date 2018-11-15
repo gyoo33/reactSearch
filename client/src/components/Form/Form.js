@@ -11,7 +11,7 @@ const Form = props => (
         id="Title"
         type="text"
         value={props.q}
-        placeholder="Ready Player One"
+        placeholder="A Series of Unfortunate Events"
         name="q"
         onChange={props.handleInputChange}
         required
